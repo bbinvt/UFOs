@@ -25,11 +25,11 @@ function buildTable(data) {
 
 // 1. Create a variable to keep track of all the filters as an object.
  function handleClick() {
-    let date - d3.select('#datetime').property('value');
+    let date = d3.select('#datetime').property('value');
     let filteredData = tableData;
 
     if(date) {
-      filteredData = filtered.Data.filter(row => row.datetime === date);
+      filteredData = filteredData.filter(row => row.datetime === date);
     };
 
     // Rebuild table using filtered data
