@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-This objective for this project is to produce an interactive website allowing a user to filter data from a UFO data set. The underlying mechanics of this project utilize Java Script, the table is displayed in HTML format making it easy for the user to interact with.  
+This objective for this project is to produce an interactive website allowing a user to perform searches on a UFO data set. The underlying mechanics of this project utilize Java Script, the table is displayed in HTML format making it easy for the user to interact with, the website is styled using fairly basic css stylings.  
 
 ### Project Resources
 - The Java Script logic is contained here: [challengeApp.js](https://github.com/bbinvt/UFOs/blob/49df6a05b1647890e6ccfa2e15d07eddfb42f309/JavaScript/challengeApp.js)
